@@ -1,1 +1,1 @@
-# API-Key-Generator
+# API Key Generator
